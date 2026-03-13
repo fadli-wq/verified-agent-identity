@@ -38,4 +38,4 @@ jobs:
 
       - name: Step 3 - Link Human to Agent
         run: |
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "fuzer0", "description": "fuzer0 AI Agent"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "fadli-wq", "description": "fuzer0 AI Agent"}'
